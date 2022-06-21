@@ -1,0 +1,7 @@
+Learning Skill List:
+Angular
+Azure
+DevOps
+OpenShift
+Acing Client Interview
+iUpskill

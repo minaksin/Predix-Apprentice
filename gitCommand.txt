@@ -1,0 +1,7 @@
+git init - Initializes the local repository
+git init - Initializes the local repository
+git add <fileName> - Adds the file to staging i.e ready for commit
+git status - Shows the files which are in staged
+git commit - Adds the file to local repo from staging
+git log - Shows the commited id with Author and date time
+git push https://<GITHUB_ACCESS_TOKEN>@github.com/<GITHUB_USERNAME>/<REPOSITORY_NAME>.git
